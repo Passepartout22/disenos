@@ -55,7 +55,7 @@ class BasicoPage extends StatelessWidget {
                 children: <Widget>[
                   Text('Lago con un puente', style: estiloTitulo ),
                   SizedBox( height: 7.0 ),
-                  Text('Un lago en Alemania', style: estiloSubTitulo ),
+                  Text('Un lago en Alemania', style: estiloSubTitulo),
                 ],
               ),
             ),
